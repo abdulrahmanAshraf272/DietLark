@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "489401177858",
+    "project_id": "diet-lark",
+    "storage_bucket": "diet-lark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489401177858:android:492ecf62c762b6275dd41b",
+        "android_client_info": {
+          "package_name": "com.dietlark.fitness.calorie.loseweight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489401177858-tfot6f38no655057r4dgbrkvv2a03n10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dietlark.fitness.calorie.loseweight",
+            "certificate_hash": "e1197f314b13b07cc7e1af6eee5ab93ececf6bc2"
+          }
+        },
+        {
+          "client_id": "489401177858-mnqdh67l5lrkfrquclkvncbans1bpneh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvLazJLWrEruJt1_o0zV4e6M-JPnrmD0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489401177858-mnqdh67l5lrkfrquclkvncbans1bpneh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">DietLark</string>
+    
+  <string name="facebook_app_id">751287226622163</string>
+  <string name="fb_login_protocol_scheme">fb751287226622163</string>
+  <string name="facebook_client_token">3bb0a0cdd6ef37a1a7be4f0cdb8c5286</string>
+
+
+
+</resources>
+
